@@ -1,0 +1,138 @@
+body {
+  width: 1440px;
+  height: 1715px;
+}
+
+p {
+  font-weight: 700;
+  font-size: 32px;
+  color: #27187f;
+}
+
+span {
+  color: #758bfd;
+}
+
+.news {
+  font-weight: 500;
+  font-size: 24px;
+  color: #27187f;
+}
+
+.nav1 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #758bfd;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.nav-items li {
+  padding: 30px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.search {
+  border: 3px solid #27187f;
+  width: 221px;
+  text-align: right;
+  border-radius: 10px;
+}
+
+section {
+  width: 1440px;
+  height: 1051px;
+  background-color: #ddeaf8;
+  margin-top: 30px;
+}
+
+section p {
+  padding-top: 70px;
+  padding-left: 110px;
+}
+
+.card-section1 img {
+  border-radius: 10px;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.card-section1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+
+.text {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.card-section2 img {
+  border-radius: 10px;
+}
+
+.card-section2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+}
+
+.group p {
+  font-weight: 400;
+  font-size: 20px;
+  color: #00cad7;
+}
+
+.group {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+}
+
+footer {
+  width: 1440px;
+  height: 504px;
+  background-color: #758bfd;
+}
+
+.links h1 {
+  color: #ffffff;
+}
+
+.links ul {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.links li {
+  padding: 10px;
+}
+
+.viza-cards {
+  text-align: right;
+  padding-top: 80px;
+  padding-right: 110px;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
